@@ -15,28 +15,12 @@ Welcome to my github page!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+## Projects
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch-io&logoColor=white)](https://maiusebi.itch.io)
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmebia)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmebia)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Maiusebi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@jmebia.com)
----
-
-_Always learning, always building._
-
-
-<!--
-**jmebia/jmebia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTMuNzEgMy41MmMuMzUuMTEuNzUuMjQuOTguMzd2MGMuNDcuMjguOTMuNjEuMSAxLjMzLS4zLjI1LS42Mi40LS45NC41OC0xLjA0LjUyLTIuNTIuNzgtMy45NC43OHMtMi45LS4yNi0zLjk0LS43OGMtLjMyLS4xOC0uNjQtLjMzLS45NC0uNTgtLjgzLS43Mi4wNC0xLjA1LjEtMS4zM2MuMjMtLjEzLjYzLS4yNi45OC0uMzdhOS44NyA5Ljg3IDAgMCAxIDMuNzEtLjYzYzEuMjggMCAyLjU0LjIxIDMuNzEuNjNaTTcuNjYgMTAuNDNjLS41OC4yNi0xLjEuNTMtMS41Ni44My0uMzQuMi0uNjYuNC0uOTQuNjEtLjc0LjUzLTEuMzYuMS0uODMtLjY0LjE0L)](https://bsky.app/profile/maiusebi.com)
