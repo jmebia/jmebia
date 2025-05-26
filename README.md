@@ -1,5 +1,5 @@
 # 👋 Hi, I’m JM 
-Welcome to my page!
+Welcome to my github page!
 
 ## 🛠 What I Usually Work With Today
 
