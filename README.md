@@ -26,4 +26,4 @@ Welcome to my github page!
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/jmebia) | [Twitter](https://twitter.com/Maiusebi) | [Bluesky](https://bsky.app/profile/maiusebi.com)
+[Website](https://www.jmebia.com) | [LinkedIn](https://www.linkedin.com/in/jmebia) | [Twitter](https://twitter.com/Maiusebi) | [Bluesky](https://bsky.app/profile/maiusebi.com)
