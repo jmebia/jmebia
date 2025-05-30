@@ -1,5 +1,6 @@
-# 👋 Hi, I’m JM 
-Welcome to my GitHub page!
+# Hello there! 👋 I’m JM 
+🪄 I sling code for both web servers and spellcasters. 
+Welcome to my GitHub page.
 
 ---
 
@@ -36,7 +37,7 @@ Welcome to my GitHub page!
 
 ### 🌐 Connect with Me
 
-[Website](https://www.jmebia.com)  
-[LinkedIn](https://www.linkedin.com/in/jmebia)  
-[Twitter](https://twitter.com/Maiusebi)  
-[Bluesky](https://bsky.app/profile/maiusebi.com)
+[![Website](https://img.shields.io/badge/%20Website-222?style=flat&logo=google-chrome&logoColor=white)](https://www.jmebia.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmebia)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Maiusebi)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0056FF?style=flat&logoColor=white)](https://bsky.app/profile/maiusebi.com)
