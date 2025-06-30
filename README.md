@@ -29,7 +29,6 @@ Welcome to my GitHub page.
 
 
 ---
-### 🎮 Game Dev
 
 [![Play on Itch.io](https://i.giphy.com/XIqCQx02E1U9W.webp)](https://maiusebi.itch.io)
 
