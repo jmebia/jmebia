@@ -10,7 +10,9 @@ Welcome to my GitHub page.
 ---
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmebia&show_icons=true&rank_icon=github&locale=en" alt="ashishps1" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmebia&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide=issues&locale=en" alt="jmebia" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmebia&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
