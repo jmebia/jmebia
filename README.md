@@ -1,7 +1,5 @@
 # Hello there! 👋 I’m JM 
 
-&nbsp;![](https://komarev.com/ghpvc/?username=jmebia&color=brightgreen)
-
 🪄 I sling code for both web servers and spellcasters. 
 Welcome to my GitHub page.
 
