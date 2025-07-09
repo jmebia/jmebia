@@ -21,7 +21,5 @@ I’m a developer with a B.S. in Computer Science, working across full-stack web
 <img align="center" src="https://media.tenor.com/B-HgcAJa1VAAAAAi/thumbs-up-zoey.gif" alt="zoey" width="200"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmebia&show_icons=true&theme=radical&rank_icon=github&count_private=true&locale=en" alt="jmebia" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://media.tenor.com/B-HgcAJa1VAAAAAi/thumbs-up-zoey.gif" alt="zoey" width="200"/>
 </p>
 
