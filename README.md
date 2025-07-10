@@ -1,13 +1,15 @@
 
-<p align="center">
-  <img src="https://media.tenor.com/B-HgcAJa1VAAAAAi/thumbs-up-zoey.gif" alt="zoey" width="200" />
-</p>
+
 
 I’m a developer with a B.S. in Computer Science, working across full-stack web dev and indie game development.
 
 - Currently specializing in Laravel, PHP, and MySQL for professional work  
 - Developing indie games using Godot  
 - Linux server tinkerer & Raspberry Pi hobbyist  
+
+<p align="left">
+  <img src="https://media.tenor.com/x5sCQirdaXMAAAAi/angry-neeko.gif" alt="zoey" width="300" />
+</p>
 
 ---
 
