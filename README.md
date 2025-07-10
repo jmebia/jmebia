@@ -2,8 +2,8 @@
 
 I’m a developer with a B.S. in Computer Science, working across full-stack web dev and indie game development.
 
-- Full-stack developer specializing in Laravel, PHP and MySQL
-- Indie game dev using Godot
+- Currently specializing in Laravel, PHP, and MySQL for professional work
+- Developing indie games using Godot
 - Linux server tinkerer & Raspberry Pi hobbyist
 
 ---
@@ -15,6 +15,7 @@ I’m a developer with a B.S. in Computer Science, working across full-stack web
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-9c371e?style=flat&logo=openjdk&logoColor=white" />
 </p>
 
 <p align="center">&nbsp;
