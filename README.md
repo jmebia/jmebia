@@ -8,7 +8,7 @@ I’m a developer with a B.S. in Computer Science, working across full-stack web
 - Linux server tinkerer & Raspberry Pi hobbyist  
 
 <p align="right">
-  <img src="https://media.tenor.com/x5sCQirdaXMAAAAi/angry-neeko.gif" alt="zoey" width="300" />
+  <img src="https://media.tenor.com/x5sCQirdaXMAAAAi/angry-neeko.gif" alt="zoey" width="200" />
 </p>
 
 ---
