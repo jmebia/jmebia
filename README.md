@@ -3,7 +3,8 @@
 
 I’m a developer with a B.S. in Computer Science, working across full-stack web dev and indie game development.
 
-- Currently specializing in Laravel, PHP, and MySQL for professional work  
+- Currently specializing in Laravel, PHP, and MySQL for professional work
+- I also happen to have some significant experience in Python, Java, and front-end web stacks.
 - Developing indie games using Godot  
 - Linux server tinkerer & Raspberry Pi hobbyist  
 
